@@ -28,7 +28,7 @@ A high-performance HTTP/1.1 web server written in C++98, compliant with the 42 s
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/h-claude/webserv.git
    cd webserv
    ```
 
